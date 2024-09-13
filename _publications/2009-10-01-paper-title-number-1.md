@@ -2,7 +2,6 @@
 title: "Optimal data-generation strategy for machine learning yield functions in anisotropic plasticity"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Trained machine learning (ML) algorithms can serve as numerically efficient surrogate models of sophisticated
 but numerically expensive constitutive models of material behavior. In the field of plasticity, ML yield functions have been
 proposed that serve as the basis of a constitutive model for plastic material behavior. If the training data for such ML flow rules is gained by micromechanical models, 
