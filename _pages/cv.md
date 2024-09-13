@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate at ICAMS, Ruhr University Bochum, Germany, 2025 (expected)
+  * Thesis: Data oriented constitutive modeling of polycrystalline metals
+  Supervisors: Prof. Dr. Alexander Hartmaier
+* M.S. in Materials Science, Technische Universität Darmstadt, Germany, 2021
+  * Thesis: data science-based crack growth model under creep-fatigue conditions for Inconel 718 superalloy.
+* B.S. in Materials Engineering, Iran University of Science and Technology, Iran, 2017
 
 Work experience
 ======
