@@ -12,17 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D Candidate at ICAMS, Ruhr University Bochum, Germany, 2025 (expected)
-  * Thesis: Data oriented constitutive modeling of polycrystalline metal
 * M.S. in Materials Science, Technische Universität Darmstadt, Germany, 2021
-  * Thesis: data science-based crack growth model under creep-fatigue conditions for Inconel 718 superalloy.
 * B.S. in Materials Engineering, Iran University of Science and Technology, Iran, 2017
 
 Work experience
 ======
 * Research Assistance: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * ICAMS, Ruhr University Bochum
 
 * Fall 2015: Research Assistant
   * Github University
