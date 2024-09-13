@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "A machine learning constitutive model for plasticity and strain hardening of polycrystalline metals based on data from micromechanical simulations"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Machine learning (ML) methods have emerged as promising tools for generating constitutive models directly from mechanical data. Constitutive models are fundamental in describing and predicting the mechanical behavior of materials under arbitrary loading conditions. In recent approaches, the yield function, central to constitutive models, has been formulated in a data-oriented manner using ML. Many ML approaches have primarily focused on initial yielding, and the effect of strain hardening has not been widely considered. However, taking strain hardening into account is crucial for accurately describing the deformation behavior of polycrystalline metals. To address this problem, the present study introduces an ML-based yield function formulated as a support vector classification model, which encompasses strain hardening. This function was trained using a 12-dimensional feature vector that includes stress and plastic strain components resulting from crystal plasticity finite element method (CPFEM) simulations on a 3-dimensional RVE with 343 grains with a random crystallographic texture. These simulations were carried out to mimic multi-axial mechanical testing of the polycrystal under proportional loading in 300 different directions, which were selected to ensure proper coverage of the full stress space. The training data were directly taken from the stress–strain results obtained for the 300 multi-axial load cases. It is shown that the ML yield function trained on these data describes not only the initial yield behavior but also the flow stresses in the plastic regime with a very high accuracy and robustness. The workflow introduced in this work to generate synthetic mechanical data based on realistic CPFEM simulations and to train an ML yield function, including strain hardening, will open new possibilities in microstructure-sensitive materials modeling and thus pave the way for obtaining digital material twins.'
+date: 2024-04-11
+venue: 'Machine Learning: Science and Technology'
+paperurl: 'https://iopscience.iop.org/article/10.1088/2632-2153/ad379e/meta'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

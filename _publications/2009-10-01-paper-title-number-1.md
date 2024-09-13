@@ -13,9 +13,7 @@ It is shown that even for materials with a significant plastic anisotropy, as po
 are sufficient to train the ML yield function successfully. Furthermore, it is demonstrated how data-oriented flow rules can be used in standard finite element analysis.'
 date: 2022-04-27
 venue: 'Frontiers in Materials'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2022.868248/full'
-citation: 'Shoghi R and Hartmaier A (2022) Optimal Data-Generation Strategy for Machine Learning Yield Functions in Anisotropic Plasticity. Front. Mater. 9:868248. doi: 10.3389/fmats.2022.868248; <i>Journal 1</i>. 1(1).'
----
+
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
