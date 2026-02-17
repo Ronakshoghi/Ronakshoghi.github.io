@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ronak Shoghi
+title                    : "Ronak Shoghi"
 title_separator          : "-"
 name                     : &name "Ronak Shoghi"
 description              : &description "personal description"
