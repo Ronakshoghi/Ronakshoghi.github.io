@@ -4,7 +4,8 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/computational-plasticity/
 venue: "Ruhr University Bochum"
-date: " summer semester 2026"
+date: 2026-04-01
+semester: " summer semester 2026"
 location: "Bochum, Germany"
 ---
 
