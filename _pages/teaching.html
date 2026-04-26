@@ -1,28 +1,25 @@
 ---
-layout: single
+layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-This page lists my teaching activities, including lectures, lab courses and exercises.
+{% include base_path %}
 
-## Lectures and lab courses
+{% for post in site.teaching reversed %}
+  <div class="archive__item">
+    <h2 class="archive__item-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
 
-### [Computational Plasticity](/teaching/computational-plasticity/)
-
-**Type:** Lecture
-**Institution:** Ruhr University Bochum
-**Semester:** Summer semester 2026
-
-This lecture covers theoretical and computational aspects of continuum plasticity, crystal plasticity, numerical solution schemes, and implementation of constitutive models.
-
-### [Materials Modeling Lab](/teaching/materials-modeling-lab/)
-
-**Type:** Lab course
-**Institution:** Ruhr University Bochum
-**Semester:** Winter semester 2024/2025 & Summer semester 2026
-
-This lab course introduces finite element-based materials modeling and microstructure–property relationships using representative volume elements and micromechanical simulations.
-
-[More details coming soon.]
+    <p class="archive__item-excerpt">
+      {{ post.type }}, <em>{{ post.venue }}</em>
+      {% if post.semester %}
+        , {{ post.semester }}
+      {% elsif post.date %}
+        , {{ post.date | date: "%Y" }}
+      {% endif %}
+    </p>
+  </div>
+{% endfor %}

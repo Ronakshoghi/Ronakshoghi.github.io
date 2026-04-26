@@ -4,7 +4,7 @@ collection: teaching
 type: "Lab course"
 permalink: /teaching/materials-modeling-lab
 venue: "Ruhr University Bochum"
-role: Lecturer
+semester: " Winter semester 2025 & summer semester 2026"
 location: "Bochum, Germany"
 ---
 ## Overview
