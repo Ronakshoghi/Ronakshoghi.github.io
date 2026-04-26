@@ -12,16 +12,11 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /teaching/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: /files/Ronak_Shoghi_CV.pdf
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/RonakShoghi_CV.pdf
+
