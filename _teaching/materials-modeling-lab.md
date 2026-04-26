@@ -4,7 +4,7 @@ collection: teaching
 type: "Lab course"
 permalink: /teaching/materials-modeling-lab
 venue: "Ruhr University Bochum"
-semester: " Winter semester 2025 & summer semester 2026"
+date: " winter semester 2025 & summer semester 2026"
 location: "Bochum, Germany"
 ---
 ## Overview
@@ -14,8 +14,6 @@ In this lab course, students learn how to use finite element analysis (FEA) to s
 ![Materials Modeling Lab workflow](/images/MML.png)
 
 ## Learning outcomes
-
-After completing the lab, students will be able to:
 
 - understand the concept of representative volume elements (RVEs)
 - generate microstructures for numerical analysis

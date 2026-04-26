@@ -9,7 +9,6 @@ author_profile: true
 
 ### Auf Spurensuche im Metall
 
-**Science communication contribution**  
 Ronak Shoghi and Jan Schmidt  
 ICAMS, Ruhr University Bochum
 
@@ -31,3 +30,8 @@ My role focused on translating complex materials science concepts into accessibl
 
 - [RUB News Feature](https://news.rub.de/transfer/2025-02-11-wissenschaftskommunikation-auf-spurensuche-im-metall)
 - [YouTube Video](https://www.youtube.com/watch?v=cYdYoZ65tFA&t=19s)
+
+
+## Educational videos
+
+This part is under construction. I am currently working on creating educational videos that explain key concepts in materials science and computational modeling in an accessible way. These videos will cover topics such as microstructure-property relationships, finite element analysis, and machine learning applications in materials science. The goal is to provide resources for students, researchers, and anyone interested in learning about materials science in an engaging format.

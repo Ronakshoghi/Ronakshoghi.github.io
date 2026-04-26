@@ -4,13 +4,15 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/computational-plasticity/
 venue: "Ruhr University Bochum"
-semester: " Summer semester 2026"
+date: " summer semester 2026"
 location: "Bochum, Germany"
 ---
 
-## Course content
+## Overview
 
-The lecture covered:
+This course offers an introduction into the concepts of plasticity and their implementation and application as non-linear constitutive models in the finite element analysis.
+
+## Learning outcomes
 
 - Basics of continuum mechanics and finite element methods
 - Phenomenology and atomistic origin of elastic and plastic deformation

@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  <div class="archive__item">
-    <h2 class="archive__item-title">
+  <div class="archive__item" style="margin-bottom: 1.8em;">
+    <h2 class="archive__item-title" style="margin-bottom: 0.3em;">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
 
-    <p class="archive__item-excerpt">
-      {{ post.type }}, <em>{{ post.venue }}</em>
+    <p class="archive__item-excerpt" style="font-size: 1.05em; line-height: 1.6; margin-top: 0;">
+      <strong>{{ post.type }}</strong>, <em>{{ post.venue }}</em>
       {% if post.semester %}
         , {{ post.semester }}
       {% elsif post.date %}
