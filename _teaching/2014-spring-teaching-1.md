@@ -1,20 +1,24 @@
 ---
 title: "Materials Modeling Lab"
 collection: teaching
-type: "graduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Lab course"
+permalink: /teaching/materials-modeling-lab
+venue: "Ruhr University Bochum"
+date: 2025-01-01
+location: "Bochum, Germany"
 ---
+## Overview
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this lab course, students learn how to use finite element analysis (FEA) to study the microstructure–property relationships of materials with two phases. In the first step, representative volume elements (RVEs) of dual-phase microstructures are created with varying phase fractions and size distributions. In the second step, these microstructures are simulated in Abaqus under tensile loading. From the simulation results, students determine material properties such as Young’s modulus and yield strength, and analyze how these properties depend on the microstructure.
 
-Heading 1
-======
+![Materials Modeling Lab workflow](/images/MML.png)
 
-Heading 2
-======
+## Learning outcomes
 
-Heading 3
-======
+After completing the lab, students will be able to:
+
+- understand the concept of representative volume elements (RVEs)
+- generate microstructures for numerical analysis
+- use finite element simulations to study dual-phase materials
+- determine effective material properties
+- analyze the influence of microstructure on mechanical behavior
