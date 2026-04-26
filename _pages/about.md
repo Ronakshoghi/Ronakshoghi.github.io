@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ronak Shoghi, a research group leader at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. My group, **Data-Oriented Materials Modeling**, focuses on data-driven approaches for understanding and modeling the relationship between microstructure and mechanical properties of metalic materials.
+I am a research group leader at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. My group, **Data-Oriented Materials Modeling**, focuses on data-driven approaches for understanding and modeling the relationship between microstructure and mechanical properties of metalic materials.
 ## Research interests
 
 My research focuses on the combination of mechanics, materials science, and data-driven modeling. I am especially interested in:
