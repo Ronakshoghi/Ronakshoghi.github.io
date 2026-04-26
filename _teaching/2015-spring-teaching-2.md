@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 2"
+title: "Computational Plasticity"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/computational-plasticity/
+venue: "Ruhr University Bochum"
+date: Summer semester 2026
+role: Lecturer
+location: "Bochum, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Course content
 
-Heading 1
-======
+The lecture covered:
 
-Heading 2
-======
+- Basics of continuum mechanics and finite element methods
+- Phenomenology and atomistic origin of elastic and plastic deformation
+- Concepts of continuum plasticity, including yield criteria, flow rules, and isotropic and kinematic hardening
+- Rate-dependent and rate-independent formulations of continuum plasticity
+- Numerical solution schemes for elasto-plasticity, including operator split methods, return mapping, and consistent tangent moduli
+- Computational aspects of small- and large-strain formulations
+- Concepts of crystal plasticity, including dislocation slip, flow rules, hardening models, and consistent tangent moduli
+- Plasticity of polycrystals, including Sachs, Taylor, and self-consistent models
+- Numerical solution schemes for crystal plasticity
+- Structure, implementation, and application of an Abaqus UMAT
 
-Heading 3
-======
