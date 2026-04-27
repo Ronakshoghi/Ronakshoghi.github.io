@@ -17,5 +17,8 @@ main:
   - title: "Outreach"
     url: /outreach/
 
+  - title: "Research Data"
+    url: /research-data/
+
   - title: "CV"
     url: /cv/
