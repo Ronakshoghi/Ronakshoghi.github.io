@@ -7,7 +7,7 @@ author_profile: true
 
 A complete PDF version of my CV is available here:
 
-[Download CV](/files/RonakShoghi_CV.pdf)
+[Download CV](/files/Ronakshoghi_CV.pdf)
 
 ## Education
 
